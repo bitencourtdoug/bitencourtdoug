@@ -1,6 +1,6 @@
 ### Ola, prazer meu nome é Douglas Bitencourt! ✔ 
 
-- 🔭 No momento sou empresario
+- 🔭 Administrador
 - ✔ Estudando Python, Java Fullstack e ADM. 
 - ✔ Atleta de Jiu-jitsu
 -->
