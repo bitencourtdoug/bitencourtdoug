@@ -1,8 +1,10 @@
 ### Ola, prazer meu nome é Douglas Bitencourt! ✔ 
 
-- 🔭 Administrador
-- ✔ Estudando Python, Java Fullstack e ADM. 
+- ✔ Python, Java Fullstack, Flutter, MySql, Git, Trello.
+- ✔ Estudando Pós Graduação Desenvolvimento Web e Etudando MBA em Cybersecurity
+- ✔ Formado em Processos Gerencias
 - ✔ Atleta de Jiu-jitsu
+- 🔭 Administrador
 -->
 <div align="center">
   <a href="https://github.com/bitencourtdoug">
