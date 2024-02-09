@@ -1,7 +1,7 @@
 ### Ola, prazer meu nome é Douglas Bitencourt! ✔ 
 
 - ✔ Python, Java Fullstack, Flutter, MySql, Git, Trello.
-- ✔ Pós Graduação Desenvolvimento Web / MBA em Cybersecurity e cybercrimes
+- ✔ Pós Graduação Desenvolvimento Web Full Stack / MBA em Cybersecurity e cybercrimes
 - ✔ Formado em Processos Gerencias
 - ✔ Atleta de Jiu-jitsu
 - 🔭 Administrador
