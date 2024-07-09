@@ -35,10 +35,10 @@
   ##
   <br>   
 <div>
-  ![Snake animation](https://github.com/bitencourtdoug/bitencourtdoug/blob/output/github-contribution-grid-snake.svg)
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitencourtdoug&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 </div>  
  
  
 
-
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
